@@ -8,9 +8,11 @@
 		<version>2.2.3.BUILD-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	
 	<groupId>com.heliohdd.spring-boot-ionic-backend</groupId>
 	<artifactId>spring-boot-ionic-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	
 	<name>spring-boot-ionic-backend</name>
 	<description>Estudo de caso em Java para Modelagem Conceitual com UML</description>
 
